@@ -10,16 +10,16 @@
 dewi-Xll/dewi-Xll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial slace=1.0"/>
-    <title>kalkulator </title>
-    <link rel="stylesheet" href="style.css" type="Text/css">
+    <title>kalkulator</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
   </head>
   <body>
-    <div class="Calculator">
+    <div class="calculator">
       <h1>kalkulator </h1>
       <input type="Text" id="layar"/>
       <div class="container-tombol">
