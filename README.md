@@ -2,7 +2,7 @@
      you can call me dewi
 - 👀 saya tertarik dengan dunia pemrograman 
 - 🌱 Currently I am studying at SMK 1 Indralaya Selatan
-<li>hobi saya bernyanyi </li>
+<li align="center">hobi saya bernyanyi </li>
   
   
   
