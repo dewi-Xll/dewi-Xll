@@ -2,8 +2,8 @@
      you can call me dewi
 - 👀 saya tertarik dengan dunia pemrograman 
 - 🌱 Currently I am studying at SMK 1 Indralaya Selatan
-  <li>hai</li>
-  <ul>hai</ul>
+<li>hobi saya bernyanyi </li>
+  
   
   
   
