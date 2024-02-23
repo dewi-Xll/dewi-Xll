@@ -1,11 +1,13 @@
 - 👋 Hallo my name is dewi lestari
      you can call me dewi
-- 👀 saya tertarik dengan dunian pemrograman 
-- 🌱 Currently I am studying at SMK 1 Indralaya Selatan 
-- 💞️ Saya ingin berkolaborasi ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 saya tertarik dengan dunia pemrograman 
+- 🌱 Currently I am studying at SMK 1 Indralaya Selatan
+-🍬 hobi saya bernyanyi
+-
+
+  
+  
+
 
 <!---
 dewi-Xll/dewi-Xll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
