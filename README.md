@@ -1,8 +1,8 @@
-<li align="center">👋 Hallo my name is dewi lestari
+<li>👋 Hallo my name is dewi lestari
      you can call me dewi</li>
-<li align="center">👀 saya tertarik dengan dunia pemrograman</li>
-<li align="center"> 🌱 Currently I am studying at SMK 1 Indralaya Selatan</li>
-<li align="center">hobi saya bernyanyi </li>
+<li>👀 saya tertarik dengan dunia pemrograman</li>
+<li> 🌱 Currently I am studying at SMK 1 Indralaya Selatan</li>
+<li>hobi saya bernyanyi </li>
   
   
   
